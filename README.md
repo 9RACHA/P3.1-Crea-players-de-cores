@@ -4,6 +4,6 @@ Crea un xogo no que cada 5 segundos se creen players (cápsulas) que terán unha
 
 Entregables:
 
--Pequeno informe explicativo con algunhas capturas /
+-Pequeno informe explicativo con algunhas capturas 
 
 -Repositorio do xogo
