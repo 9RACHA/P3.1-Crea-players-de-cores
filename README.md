@@ -7,3 +7,7 @@ Entregables:
 -Pequeno informe explicativo con algunhas capturas 
 
 -Repositorio do xogo
+
+
+##
+Instalado el netcode
